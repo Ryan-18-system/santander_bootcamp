@@ -20,3 +20,9 @@ const carregaPiada = async ()=>{
 
 botao.addEventListener('click', carregaPiada)
 carregaPiada()
+
+
+
+
+
+
